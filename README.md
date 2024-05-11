@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! Welcome to my portfolio 🚀
+# Welcome to my portfolio 🚀
 
 ## About me 👨‍💻
 Hi I am Carlos and I am passionate about web technologies. I am currently studying a higher degree in web development in Barcelona.  
