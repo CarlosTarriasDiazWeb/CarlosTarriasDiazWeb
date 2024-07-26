@@ -22,7 +22,7 @@ Feel free to explore my portfolio and get a glimpse of my work. Thank you for vi
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlostarrias)
 &nbsp;
 
-[Web Portfolio](https://carlos-tarrias-web-portfolio.vercel.app/)
+<!-- [Web Portfolio](https://carlos-tarrias-web-portfolio.vercel.app/) -->
 
 ### My skills 📚
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,angular,postgres,nodejs,prisma,express)](https://skillicons.dev)
