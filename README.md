@@ -21,7 +21,7 @@ I am a self-taught person and I like to train myself by doing online courses and
 
 Feel free to explore my portfolio and get a glimpse of my work. Thank you for visiting!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/carlostarrias/)
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlostarrias)
 &nbsp;
 
 [Web Portfolio](https://carlos-tarrias-web-portfolio.vercel.app/)
