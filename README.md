@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my portfolio 🚀
-
-## About me 👨‍💻
+# About me 
 Junior web developer specialized in Frontend. My goal is to combine my experience in Fullstack technologies with my passion for programming to contribute to the development and success of enterprise projects. I am looking for challenges and opportunities where I can continue to expand my professional skills in a fast growing and collaborative environment. 
 I am a self-taught person and I like to train myself by doing online courses and personal projects. Throughout my career I have been able to learn and use different programming languages so I can quickly adapt to new technologies and frameworks, also, I have experience working in a team using agile methodologies for software development.
 
