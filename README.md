@@ -16,20 +16,18 @@ Here are some ideas to get you started:
 # Welcome to my portfolio 🚀
 
 ## About me 👨‍💻
-Hi I am Carlos and I am passionate about web technologies. I am currently studying a higher degree in web development in Barcelona.  
-This portfolio showcases a collection of the web projects and user interfaces I've developed in the last two years.  
-
-You will find samples of my experience in various areas, such as developing responsive websites, creating functional user interfaces, and implementing interactive features with Javascript and Vue.
+Junior web developer specialized in Frontend. My goal is to combine my experience in Fullstack technologies with my passion for programming to contribute to the development and success of enterprise projects. I am looking for challenges and opportunities where I can continue to expand my professional skills in a fast growing and collaborative environment. 
+I am a self-taught person and I like to train myself by doing online courses and personal projects. Throughout my career I have been able to learn and use different programming languages so I can quickly adapt to new technologies and frameworks, also, I have experience working in a team using agile methodologies for software development.
 
 Feel free to explore my portfolio and get a glimpse of my work. Thank you for visiting!
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlostarrias/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)(https://www.linkedin.com/in/carlostarrias/)
 &nbsp;
 
 [Web Portfolio](https://carlos-tarrias-web-portfolio.vercel.app/)
 
 ### My skills 📚
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,vue,kotlin,postgres,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,angular,postgres,nodejs,prisma,express)](https://skillicons.dev)
 
 
 
