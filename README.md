@@ -13,18 +13,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# About me 
-Junior web developer specialized in Frontend. My goal is to combine my experience in Fullstack technologies with my passion for programming to contribute to the development and success of enterprise projects. I am looking for challenges and opportunities where I can continue to expand my professional skills in a fast growing and collaborative environment. 
-I am a self-taught person and I like to train myself by doing online courses and personal projects. Throughout my career I have been able to learn and use different programming languages so I can quickly adapt to new technologies and frameworks, also, I have experience working in a team using agile methodologies for software development.
+### Sobre mí 👦
 
-Feel free to explore my portfolio and get a glimpse of my work. Thank you for visiting!
+Hola buenas soy Carlos, desarrollador web junior y técnico superior en desarrollo de aplicaciones web.
+
+🎯 
+Mi objetivo es combinar mi experiencia en tecnologías Fullstack con 
+mi pasión por la programación para contribuir al desarrollo 
+y al éxito de proyectos empresariales. 
+
+🔍 
+Estoy en la búsqueda de desafíos y oportunidades donde 
+pueda continuar ampliando mis habilidades profesionales en un entorno
+colaborativo y de rápido crecimiento. 
+Soy una persona autodidacta y me gusta formarme por mi cuenta 
+realizando cursos online y proyectos personales. 
+
+🧑‍💻 
+A lo largo de mi trayectoria he podido conocer y utilizar 
+diferentes lenguajes de programación con lo cual puedo adaptarme
+rápidamente a nuevas tecnologías y frameworks, además, tengo 
+experiencia trabajando en equipo usando metodologías ágiles para el desarrollo de software.
+
+Este es el enlace a mi portfolio por si te interesa echarle un vistazo a
+los proyectos que he realizado:
+
+💼[Portfolio Web](https://carlos-tarrias.vercel.app/)
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/carlostarrias)
 &nbsp;
 
 <!-- [Web Portfolio](https://carlos-tarrias-web-portfolio.vercel.app/) -->
 
-### My skills 📚
+### Tecnologías 📚
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,angular,postgres,nodejs,prisma,express)](https://skillicons.dev)
 
 
